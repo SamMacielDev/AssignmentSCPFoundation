@@ -1,0 +1,86 @@
+    *{
+    margin: 10px;
+    padding: 10px;
+    color:  white;
+    box-sizing: border-box;
+    border-color: black;
+    }
+
+    body{
+    font-family:'Noto Serif', serif;
+    font-size: 30px;
+    border: 2px solid black; 
+    min-height: 100vh;
+    color: white;
+    background-color: black;
+    }
+    
+
+    h1, h2{
+    color: rgb(175, 79, 79);
+    }
+
+    .image{
+    text-align: center;
+    border:rgb(175, 79, 79);
+    border-style: inset;
+    border-radius: 60px;
+    background: rgb(6, 65, 137);
+    max-width:100%;
+    height:"auto";
+    }
+
+    header{
+    font-size: 36px;
+    text-shadow: 3px 3px rgb(152, 139, 139);
+    text-align: center;
+    background-color: rgb(6, 65, 137);
+    border-radius: 60px;
+    padding: 60px;
+    }
+
+    .navbar{
+    text-align: center;
+    border-radius: 5px;
+    }
+
+
+    .btn{
+    color: rgb(175, 79, 79);
+    margin: 10px 40px;
+    font-weight: bold;
+    font-size: 20px;
+    display: display-block;
+    border: none;
+    padding: 16px 32px;
+    text-decoration: none;
+    transition-duration: 0.7s;
+    cursor: pointer;
+    }
+
+    .btn:hover{
+    background: rgb(175, 79, 79);
+    border-radius: 15px;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+       
+    }
+
+    h3{
+    font-size: 36px;
+    text-shadow: 2px 2px rgb(50, 49, 49);
+    color: rgb(175, 79, 79);
+    background-color: rgb(6, 65, 137);
+    }
+
+    a{
+        color: rgb(175, 79, 79);
+        text-decoration: none;
+        font-weight: bold;
+    }
+  
+    footer{
+        text-align: center;
+        background-color: rgb(6, 65, 137) ;
+    }
+
+  
